@@ -8,6 +8,10 @@ Initial Function()
 Initial Function0()
 {
   //Sample Code for feature0
+
+Initial Function1()
+{
+  //Sample Code for function1
 }
 
 Initial Security()
