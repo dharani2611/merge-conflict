@@ -5,6 +5,11 @@ Initial Function()
   //Sample Code
 }
 
+Initial Function1()
+{
+  //Sample Code for function1
+}
+
 Initial Security()
 {
  //Sample Code
